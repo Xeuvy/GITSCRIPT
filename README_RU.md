@@ -134,7 +134,7 @@ MODE SELECT:
 
 | Блок | Содержимое |
 |------|-----------|
-| 🪪 Identity | SSID, BSSID (+вендор), профиль, тип сети, состояние |
+|  Identity | SSID, BSSID (+вендор), профиль, тип сети, состояние |
 | 🔐 Security | Auth, классификация, шифр, тип ключа, PSK (если открыт в профиле) |
 | 📻 Radio | NIC, тип радио, полоса, канал, RSSI, Rx/Tx |
 | 🌐 L3 Interface | IPv4/IPv6, prefix, gateway, DNS, DHCP, lease, MTU |
@@ -153,7 +153,7 @@ MODE SELECT:
 
 | Компонент | Версия / Примечание |
 |-----------|---------------------|
-| 🪟 Windows | 10 / 11 (также 8.1 с мелкими отличиями) |
+|  Windows | 10 / 11 (также 8.1 с мелкими отличиями) |
 | ⚡ PowerShell | 5.1+ (входит в состав Windows) |
 | 📶 Wi-Fi NIC | рабочий NDIS-драйвер |
 | 🔧 Служба | `WlanSvc` (WLAN AutoConfig) |
