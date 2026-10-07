@@ -134,7 +134,7 @@ MODE SELECT:
 
 | Block | Contents |
 |-------|----------|
-| 🪪 Identity | SSID, BSSID (+vendor), profile, network type, state |
+|  Identity | SSID, BSSID (+vendor), profile, network type, state |
 | 🔐 Security | Auth, classification, cipher, key type, PSK (if exposed) |
 | 📻 Radio | NIC, radio type, band, channel, RSSI, Rx/Tx |
 | 🌐 L3 Interface | IPv4/IPv6, prefix, gateway, DNS, DHCP, lease, MTU |
@@ -153,7 +153,7 @@ MODE SELECT:
 
 | Component | Version / Note |
 |-----------|----------------|
-| 🪟 Windows | 10 / 11 (also 8.1 with minor differences) |
+|  Windows | 10 / 11 (also 8.1 with minor differences) |
 | ⚡ PowerShell | 5.1+ (bundled with Windows) |
 | 📶 Wi-Fi NIC | working NDIS driver |
 | 🔧 Service | `WlanSvc` (WLAN AutoConfig) |
